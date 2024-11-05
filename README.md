@@ -10,12 +10,12 @@ Time spent: **3.5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [z] **A create form allows users to add new cremates**
-- [z] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [z] **The site displays a summary page of all the user's added crewmates**
-- [z] **A previously created crewmate can be updated from the crewmate list**
-- [z] **A previously created crewmate can be deleted from the crewmate list**
-- [z] **Each crewmate has a direct, unique link to an info page about them**
+- [x] **A create form allows users to add new cremates**
+- [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- [x] **The site displays a summary page of all the user's added crewmates**
+- [x] **A previously created crewmate can be updated from the crewmate list**
+- [x] **A previously created crewmate can be deleted from the crewmate list**
+- [x] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
 
